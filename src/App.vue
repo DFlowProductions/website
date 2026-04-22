@@ -41,7 +41,12 @@
     </div>
   </div>
   <div class="window-body">
-  <p>[INSERT STUFF HERE]</p>
+  <p>[GODOT CHARACTER CONTROLLER]</p>
+  <a href="https://dflowproductions.itch.io/player-controller-and-various-shaders-test"> <img src="/public/CharacterController.png"> </a>
+  <br>
+  <p>[SCP HORROR AUDIO DRAMA SERIES]</p>
+  <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/Raisa.png"> </a>
+  <br>
   </div>
 </div>
 </div>
@@ -49,7 +54,7 @@
 <div class="centered">
   <div class="window" style="width: 600px;margin:30px">
   <div class="title-bar">
-    <div class="title-bar-text">Universal Cookie Clicker!</div>
+    <div class="title-bar-text">Cookie Clicker Gambler!</div>
     <div class="title-bar-controls">
       <button aria-label="Minimize"></button>
       <button aria-label="Maximize"></button>
@@ -57,7 +62,7 @@
     </div>
   </div>
   <div class="window-body">
-  <p>Cookies Clicked World Wide: {{ counter }}</p>
+  <p>Cookies Clicked: {{ counter }}</p>
   <button @click="increase">Add a Cookie!</button>
   <button @click="gamble">Gamble a Cookie!</button>
   </div>
@@ -89,14 +94,22 @@
     
   }
 
+  
+
 </script>
 
 <style>
   body{
     background-image: url('background.png');
-    background-size: cover;
-    
+    background-size: cover;  
   }
+
+  img {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    object-fit: cover; /* or contain, fill, none, scale-down */
+}
   .centered { 
   display: flex; 
   justify-content: center; 
