@@ -75,7 +75,7 @@
 
   import {ref} from "vue";
 
-  const counter = ref(0)
+  const counter = ref()
 
   function increase(){
     counter.value = JSON.parse(localStorage.getItem('myInteger'));
