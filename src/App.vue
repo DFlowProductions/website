@@ -77,6 +77,10 @@
 
   const counter = ref()
 
+  counter.value = JSON.parse(localStorage.getItem('myInteger'))
+  localStorage.setItem('myInteger', JSON.stringify(counter.value))
+
+
   function increase(){
     counter.value = JSON.parse(localStorage.getItem('myInteger'));
     counter.value++
