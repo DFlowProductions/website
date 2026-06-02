@@ -47,6 +47,9 @@
   <p>[SCP HORROR AUDIO DRAMA SERIES]</p>
   <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/RAISA.png"> </a>
   <br>
+  <p>[EDITING WORK FOR YOUTUBE CONTENT CREATORS]</p>
+  <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/editing.png"> </a>
+  <br>
   </div>
 </div>
 </div>
@@ -68,6 +71,13 @@
   </div>
 </div>
 </div>
+<footer>
+  <a href="https://x.com/DFlowProds"> <img src="/public/twitter.svg"> </a>
+  <a href="https://bsky.app/profile/dflowproductions.bsky.social"> <img src="/public/bluesky.svg"> </a>
+  <a href="https://www.linkedin.com/in/reece-beattie-3573813aa/"> <img src="/public/linkedin.svg"> </a>
+  <a href="https://www.twitch.tv/dflowproductions"> <img src="/public/twitch.svg"> </a>
+  <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/youtube.svg"> </a>
+</footer>
 
 </template>
 
@@ -90,7 +100,7 @@
     counter.value = JSON.parse(localStorage.getItem('myInteger'));
     var i = Math.floor(Math.random() * 10 + 1)
     if (i==10){
-      counter.value+=20
+      counter.value+=10
     }else{
       counter.value--
     }
@@ -119,4 +129,17 @@
   justify-content: center; 
   align-items: center; 
 }
+
+  footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+  }
+
+  footer img {    
+    width: 30px;
+    display: inline-block;
+    margin: 0;
+    object-fit: cover;
+  }
 </style>
