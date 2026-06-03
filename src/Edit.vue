@@ -8,10 +8,10 @@
   </div>
 </div>
 <div class="centered">
-    <button onclick="window.location.href='#/';">Home</button> |
-    <button onclick="window.location.href='#/game';">Game Dev</button> |
-    <button onclick="window.location.href='#/series';">Series</button> |
-    <button onclick="window.location.href='#/edit';">Edit</button> |
+    <button onclick="window.location.href='#/';">Home</button>
+    <button onclick="window.location.href='#/game';">Game Dev</button>
+    <button onclick="window.location.href='#/series';">Series</button>
+    <button onclick="window.location.href='#/edit';">Edit</button>
   <component :is="currentView" />
 </div>
 

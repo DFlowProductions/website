@@ -44,7 +44,7 @@
   </div>
   <div class="window-body">
   <p>[GODOT CHARACTER CONTROLLER]</p>
-  <a href="#/game"> <img src="/public/CharacterController.png"> </a>
+  <a href="#/game"> <img src="/public/GAMEDEV.png"> </a>
   <br>
   <p>[SCP HORROR AUDIO DRAMA SERIES]</p>
   <a href="#/series"> <img src="/public/RAISA.png"> </a>
