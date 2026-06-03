@@ -3,7 +3,7 @@ import { ref, computed } from 'vue'
 import Home from './Home.vue'
 import GameDev from './Game.vue'
 import Series from './Series.vue'
-import Edit from './edit.vue'
+import Edit from './Edit.vue'
 
 const routes = {
   '/': Home,
