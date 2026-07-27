@@ -50,6 +50,10 @@
   <p>[EDITING WORK FOR YOUTUBE CONTENT CREATORS]</p>
   <a href="https://youtu.be/3nQaxsUFVj4?si=51tMEO1DapzVUc2H"> <img src="/public/DAY.png"> </a>
   <br>
+  <a href="https://www.tiktok.com/@dionysusflow?lang=en"> <img src="/public/DIO.png"> </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=i_MwuOnOnpU"> <img src="/public/KEYSMASH.png"> </a>
+  <br>
   <p>[Video And Audio Editing And Production In SCP RAISA]</p>
   <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/RAISA.png"> </a>
   <br>
