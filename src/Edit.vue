@@ -65,7 +65,7 @@
   <a href="https://x.com/DFlowProds"> <img src="/public/twitter.svg"> </a>
   <a href="https://bsky.app/profile/dflowproductions.bsky.social"> <img src="/public/bluesky.svg"> </a>
   <a href="https://www.linkedin.com/in/reece-beattie-3573813aa/"> <img src="/public/linkedin.svg"> </a>
-  <a href="https://www.twitch.tv/dflowproductions"> <img src="/public/twitch.svg"> </a>
+  <a href="https://www.twitch.tv/dionysusflow"> <img src="/public/twitch.svg"> </a>
   <a href="mailto:dflowprods@gmail.com"><img src="/public/mail.svg"></a> 
   <a href="https://www.youtube.com/@DFlowProds"> <img src="/public/youtube.svg"> </a>
 </footer>
